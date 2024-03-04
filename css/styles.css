@@ -316,11 +316,6 @@ body {
   background: #2e2f42;
 }
 
-.page-footer-container {
-  max-width: 264px;
-  margin-left: 0;
-}
-
 .logo-footer {
   display: inline-block;
   margin-bottom: 16px;
@@ -335,4 +330,5 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
+  max-width: 264px;
 }
